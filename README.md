@@ -23,10 +23,10 @@ The security evaluation of **RE-DACT** is performed on multiple IPs from the fol
 
 For each redacted IP **RD**$i$ $(i \in \{1,2,3,4,5,6\})$, the following variants are included:
 * 1 original design (unredacted): **OD**
-* 4 redacted variants for functional indistinguishability: **RD**$i$**-F**$j$ $(j \in \{0,1,2,3\})$
-* 5 redacted variants for structural indistinguishability: **RD**$i$**-S**$k$ $(k \in \{0,1,2,3,4\})$
+* 4 redacted variants for functional indistinguishability: **RD-F**$j$ $(j \in \{0,1,2,3\})$
+* 5 redacted variants for structural indistinguishability: **RD-S**$k$ $(k \in \{0,1,2,3,4\})$
 
-It should be noted that the variants **RD**$i$**-F**$0$ and **RD**$i$**-S**$0$ are identical and lack any randomized transformations from $\mathbb{RT}$. These redacted IP variants correspond to fine-grain redaction w/o **RE-DACT** from prior art.
+It should be noted that the variants **RD-F**$0$ and **RD-S**$0$ are identical and lack any randomized transformations from $\mathbb{RT}$. These redacted IP variants correspond to fine-grain redaction from prior art.
 
 The security analysis artifacts are included in the "security_analysis" directory:
 ```console
