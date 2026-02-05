@@ -1,0 +1,100 @@
+Information: Updating design information... (UID-85)
+Information: Timing loop detected. (OPT-150)
+	U5237/A2 U5237/ZN U2907/A2 U2907/ZN U9192/A1 U9192/ZN modified_inst_clut_inst_60_U14/A1 modified_inst_clut_inst_60_U14/Z U9201/B U9201/ZN U9200/A1 U9200/Z U5417/A2 U5417/ZN U2491/A2 U2491/ZN U9885/A1 U9885/ZN modified_inst_clut_inst_198_U14/A1 modified_inst_clut_inst_198_U14/Z U5499/I U5499/ZN U5502/B U5502/ZN modified_inst_clut_inst_121_U14/A1 modified_inst_clut_inst_121_U14/Z U5500/I U5500/ZN U10903/B U10903/ZN modified_inst_clut_inst_12_U14/A1 modified_inst_clut_inst_12_U14/Z U5753/I U5753/ZN U10908/A1 U10908/ZN U2215/A2 U2215/ZN U5751/A1 U5751/ZN modified_inst_clut_inst_157_U14/A1 modified_inst_clut_inst_157_U14/Z U5750/I U5750/ZN U5748/B U5748/ZN modified_inst_clut_inst_181_U14/A1 modified_inst_clut_inst_181_U14/Z modified_inst_clut_inst_49_C23/A1 modified_inst_clut_inst_49_C23/Z U9347/I U9347/ZN U9348/A2 U9348/ZN U9048/A1 U9048/ZN modified_inst_clut_inst_49_U14/A1 modified_inst_clut_inst_49_U14/Z 
+Information: Timing loop detected. (OPT-150)
+	U5201/I U5201/ZN U9204/A2 U9204/ZN U2907/B2 U2907/ZN U9192/A1 U9192/ZN modified_inst_clut_inst_60_U14/A1 modified_inst_clut_inst_60_U14/Z U9201/B U9201/ZN U9200/A1 U9200/Z U5417/A2 U5417/ZN U2491/A2 U2491/ZN U9885/A1 U9885/ZN modified_inst_clut_inst_198_U14/A1 modified_inst_clut_inst_198_U14/Z U5499/I U5499/ZN U5502/B U5502/ZN modified_inst_clut_inst_121_U14/A1 modified_inst_clut_inst_121_U14/Z U5500/I U5500/ZN U10903/B U10903/ZN modified_inst_clut_inst_12_U14/A1 modified_inst_clut_inst_12_U14/Z U5753/I U5753/ZN U10908/A1 U10908/ZN U2215/A2 U2215/ZN U5751/A1 U5751/ZN modified_inst_clut_inst_157_U14/A1 modified_inst_clut_inst_157_U14/Z U5750/I U5750/ZN U5748/B U5748/ZN modified_inst_clut_inst_181_U14/A1 modified_inst_clut_inst_181_U14/Z modified_inst_clut_inst_49_C23/A1 modified_inst_clut_inst_49_C23/Z U9347/I U9347/ZN U9348/A2 U9348/ZN U9048/A1 U9048/ZN modified_inst_clut_inst_49_U14/A1 modified_inst_clut_inst_49_U14/Z 
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_49_C23'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_49_C33'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_49_C7'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_49_C14'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_49_C36'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_49_C10'
+         to break a timing loop. (OPT-314)
+ 
+****************************************
+Report : qor
+Design : IIR_filter_ripped
+Version: V-2023.12-SP5
+Date   : Sun Dec 21 13:32:31 2025
+****************************************
+
+
+  Timing Path Group 'clk'
+  -----------------------------------
+  Levels of Logic:             346.00
+  Critical Path Length:       1612.58
+  Critical Path Slack:           0.00
+  Critical Path Clk Period:   2000.00
+  Total Negative Slack:          0.00
+  No. of Violating Paths:        0.00
+  Worst Hold Violation:        -33.74
+  Total Hold Violation:        -46.54
+  No. of Hold Violations:       11.00
+  -----------------------------------
+
+
+  Cell Count
+  -----------------------------------
+  Hierarchical Cell Count:          0
+  Hierarchical Port Count:          0
+  Leaf Cell Count:              17876
+  Buf/Inv Cell Count:            2490
+  Buf Cell Count:                 107
+  Inv Cell Count:                2383
+  CT Buf/Inv Cell Count:            0
+  Combinational Cell Count:     17247
+  Sequential Cell Count:          629
+  Macro Count:                      0
+  -----------------------------------
+
+
+  Area
+  -----------------------------------
+  Combinational Area:     5659.262975
+  Noncombinational Area:   803.831780
+  Buf/Inv Area:            403.931148
+  Total Buffer Area:            45.02
+  Total Inverter Area:         358.91
+  Macro/Black Box Area:      0.000000
+  Net Area:                  0.000000
+  -----------------------------------
+  Cell Area:              6463.094755
+  Design Area:            6463.094755
+
+
+  Design Rules
+  -----------------------------------
+  Total Number of Nets:         19721
+  Nets With Violations:             0
+  Max Trans Violations:             0
+  Max Cap Violations:               0
+  -----------------------------------
+
+
+
+
+  Compile CPU Statistics
+  -----------------------------------------
+  Resource Sharing:                    0.57
+  Logic Optimization:                 15.11
+  Mapping Optimization:               78.58
+  -----------------------------------------
+  Overall Compile Time:               99.20
+  Overall Compile Wall Clock Time:   100.43
+
+  --------------------------------------------------------------------
+
+  Design  WNS: 0.00  TNS: 0.00  Number of Violating Paths: 0
+
+
+  Design (Hold)  WNS: 33.74  TNS: 46.54  Number of Violating Paths: 11
+
+  --------------------------------------------------------------------
+
+
+1

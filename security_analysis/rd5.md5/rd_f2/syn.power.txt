@@ -1,0 +1,58 @@
+Loading db file '../../libs/NanGate_15nm_OCL_typical_conditional_ccs.db'
+Information: Propagating switching activity (low effort zero delay simulation). (PWR-6)
+Warning: Design has unannotated primary inputs. (PWR-414)
+Warning: Design has unannotated sequential cell outputs. (PWR-415)
+ 
+****************************************
+Report : power
+        -analysis_effort low
+Design : md5_ripped
+Version: V-2023.12-SP5
+Date   : Fri Dec  5 05:47:26 2025
+****************************************
+
+
+Library(s) Used:
+
+    NanGate_15nm_OCL (File: ../../libs/NanGate_15nm_OCL_typical_conditional_ccs.db)
+
+
+Operating Conditions: typical   Library: NanGate_15nm_OCL
+Wire Load Model Mode: top
+
+
+Global Operating Voltage = 0.8  
+Power-specific unit information :
+    Voltage Units = 1V
+    Capacitance Units = 1.000000ff
+    Time Units = 1ps
+    Dynamic Power Units = 1mW    (derived from V,C,T units)
+    Leakage Power Units = 1pW
+
+
+Attributes
+----------
+i - Including register clock pin internal power
+
+
+  Cell Internal Power  =  14.7858 mW   (52%)
+  Net Switching Power  =  13.7947 mW   (48%)
+                         ---------
+Total Dynamic Power    =  28.5806 mW  (100%)
+
+Cell Leakage Power     =   1.3573 mW
+
+
+                 Internal         Switching           Leakage            Total
+Power Group      Power            Power               Power              Power   (   %    )  Attrs
+--------------------------------------------------------------------------------------------------
+io_pad             0.0000            0.0000            0.0000            0.0000  (   0.00%)
+memory             0.0000            0.0000            0.0000            0.0000  (   0.00%)
+black_box          0.0000            0.0000            0.0000            0.0000  (   0.00%)
+clock_network      0.5226            0.0000            0.0000            0.5226  (   1.75%)  i
+register           0.2830            0.4557        2.5744e+07            0.7644  (   2.55%)
+sequential         0.0000            0.0000            0.0000            0.0000  (   0.00%)
+combinational     13.9805           13.3389        1.3315e+09           28.6509  (  95.70%)
+--------------------------------------------------------------------------------------------------
+Total             14.7860 mW        13.7946 mW     1.3573e+09 pW        29.9378 mW
+1

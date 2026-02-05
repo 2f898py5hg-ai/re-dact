@@ -1,0 +1,328 @@
+Information: Updating design information... (UID-85)
+Information: Timing loop detected. (OPT-150)
+	U3660/I U3660/ZN U8228/A1 U8228/ZN U2219/A1 U2219/ZN U4820/A1 U4820/ZN U3846/I U3846/ZN U8230/A1 U8230/ZN U5737/A1 U5737/ZN U12374/I0 U12374/Z U4057/I U4057/ZN U71/A1 U71/Z U5978/A2 U5978/ZN U1102/A1 U1102/ZN U646/I0 U646/Z U3605/A1 U3605/Z U6041/A1 U6041/ZN U3207/A1 U3207/ZN U3206/I0 U3206/Z U3263/I U3263/ZN U12376/S U12376/Z U3471/A1 U3471/ZN U12380/A1 U12380/ZN U3217/A1 U3217/ZN U5799/A2 U5799/ZN U1403/A1 U1403/ZN U1040/I0 U1040/Z modified_inst_csb_inst_511_csb_in_mux/I0 modified_inst_csb_inst_511_csb_in_mux/Z U15585/S U15585/Z modified_inst_csb_inst_511_csb_out_mux/I0 modified_inst_csb_inst_511_csb_out_mux/Z U292/A1 U292/ZN U12609/A1 U12609/ZN U12612/A1 U12612/ZN U1376/A1 U1376/Z U147/A1 U147/ZN U145/A1 U145/ZN U2967/A1 U2967/Z U2108/A1 U2108/ZN U2107/A1 U2107/ZN U2109/I U2109/ZN U3743/A1 U3743/ZN U8298/A2 U8298/ZN U15607/I0 U15607/Z modified_inst_csb_inst_425_csb_out_mux/I0 modified_inst_csb_inst_425_csb_out_mux/Z U8336/A1 U8336/ZN U8301/A2 U8301/ZN U15654/I0 U15654/Z modified_inst_csb_inst_282_csb_out_mux/I0 modified_inst_csb_inst_282_csb_out_mux/Z U8316/A1 U8316/Z U8315/A1 U8315/ZN U4840/A1 U4840/ZN U14243/I0 U14243/Z U4838/I U4838/ZN U14272/S U14272/Z U4854/I U4854/ZN U14273/S U14273/Z U10608/A2 U10608/ZN U4141/A1 U4141/ZN U11885/A1 U11885/ZN U2558/I U2558/ZN U14288/A1 U14288/ZN U14317/I U14317/ZN U14318/A1 U14318/ZN U1274/A1 U1274/ZN U2271/I U2271/ZN U2952/A1 U2952/Z U36/A1 U36/ZN U14380/A1 U14380/ZN U1141/I U1141/ZN U2956/A1 U2956/Z U2100/A1 U2100/ZN U5730/A1 U5730/ZN U3504/I0 U3504/Z U14397/I U14397/ZN U807/A1 U807/ZN modified_inst_csb_inst_553_csb_in_mux/I0 modified_inst_csb_inst_553_csb_in_mux/Z U15564/S U15564/Z modified_inst_csb_inst_553_csb_out_mux/I0 modified_inst_csb_inst_553_csb_out_mux/Z U12184/S U12184/Z U4722/A2 U4722/ZN U3040/A1 U3040/Z U12188/S U12188/Z U1533/I U1533/ZN U3828/A1 U3828/ZN 
+Information: Timing loop detected. (OPT-150)
+	U12347/S U12347/Z U4814/A1 U4814/ZN U8228/B U8228/ZN U2219/A1 U2219/ZN U4820/A1 U4820/ZN U3846/I U3846/ZN U8230/A1 U8230/ZN U5737/A1 U5737/ZN U12374/I0 U12374/Z U4057/I U4057/ZN U71/A1 U71/Z U5978/A2 U5978/ZN U1102/A1 U1102/ZN U646/I0 U646/Z U3605/A1 U3605/Z U6041/A1 U6041/ZN U3207/A1 U3207/ZN U3206/I0 U3206/Z U3263/I U3263/ZN U12376/S U12376/Z U3471/A1 U3471/ZN U12380/A1 U12380/ZN U3217/A1 U3217/ZN U5799/A2 U5799/ZN U1403/A1 U1403/ZN U1040/I0 U1040/Z modified_inst_csb_inst_511_csb_in_mux/I0 modified_inst_csb_inst_511_csb_in_mux/Z U15585/S U15585/Z modified_inst_csb_inst_511_csb_out_mux/I0 modified_inst_csb_inst_511_csb_out_mux/Z U292/A1 U292/ZN U12609/A1 U12609/ZN U12612/A1 U12612/ZN U1376/A1 U1376/Z U147/A1 U147/ZN U145/A1 U145/ZN U2967/A1 U2967/Z U2108/A1 U2108/ZN U2107/A1 U2107/ZN U2109/I U2109/ZN U3743/A1 U3743/ZN U8298/A2 U8298/ZN U15607/I0 U15607/Z modified_inst_csb_inst_425_csb_out_mux/I0 modified_inst_csb_inst_425_csb_out_mux/Z U8336/A1 U8336/ZN U8301/A2 U8301/ZN U15654/I0 U15654/Z modified_inst_csb_inst_282_csb_out_mux/I0 modified_inst_csb_inst_282_csb_out_mux/Z U8316/A1 U8316/Z U8315/A1 U8315/ZN U4840/A1 U4840/ZN U14243/I0 U14243/Z U4838/I U4838/ZN U14272/S U14272/Z U4854/I U4854/ZN U14273/S U14273/Z U10608/A2 U10608/ZN U4141/A1 U4141/ZN U11885/A1 U11885/ZN U2558/I U2558/ZN U14288/A1 U14288/ZN U14317/I U14317/ZN U14318/A1 U14318/ZN U1274/A1 U1274/ZN U2271/I U2271/ZN U2952/A1 U2952/Z U36/A1 U36/ZN U14380/A1 U14380/ZN U1141/I U1141/ZN U2956/A1 U2956/Z U2100/A1 U2100/ZN U5730/A1 U5730/ZN U3504/I0 U3504/Z U14397/I U14397/ZN U807/A1 U807/ZN modified_inst_csb_inst_553_csb_in_mux/I0 modified_inst_csb_inst_553_csb_in_mux/Z U15564/S U15564/Z modified_inst_csb_inst_553_csb_out_mux/I0 modified_inst_csb_inst_553_csb_out_mux/Z U12184/S U12184/Z U4722/A2 U4722/ZN U3040/A1 U3040/Z U12188/S U12188/Z U1533/I U1533/ZN 
+Warning: Disabling timing arc between pins 'I0' and 'Z' on cell 'modified_inst_csb_inst_553_csb_in_mux'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'I0' and 'Z' on cell 'modified_inst_csb_inst_553_csb_in_mux'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A2' and 'Z' on cell 'modified_inst_csb_inst_272_C33'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_401_C23'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'B' and 'ZN' on cell 'modified_inst_clut_inst_1235_U1'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'B' and 'ZN' on cell 'modified_inst_clut_inst_1235_U1'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'B' and 'ZN' on cell 'modified_inst_clut_inst_1235_U1'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'B' and 'ZN' on cell 'modified_inst_clut_inst_1235_U4'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'B' and 'ZN' on cell 'modified_inst_clut_inst_1235_U4'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'B' and 'ZN' on cell 'modified_inst_clut_inst_1235_U4'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A2' and 'ZN' on cell 'modified_inst_csb_inst_1328_U16'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A2' and 'ZN' on cell 'modified_inst_csb_inst_1328_U16'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A2' and 'ZN' on cell 'modified_inst_csb_inst_1328_U16'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'B1' and 'ZN' on cell 'modified_inst_csb_inst_1328_U16'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'B1' and 'ZN' on cell 'modified_inst_csb_inst_1328_U16'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'B1' and 'ZN' on cell 'modified_inst_csb_inst_1328_U16'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A2' and 'ZN' on cell 'modified_inst_csb_inst_1328_U11'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A2' and 'ZN' on cell 'modified_inst_csb_inst_1328_U11'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A2' and 'ZN' on cell 'modified_inst_csb_inst_1328_U11'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A2' and 'ZN' on cell 'modified_inst_csb_inst_1328_U15'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A2' and 'ZN' on cell 'modified_inst_csb_inst_1328_U10'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_895_C33'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_895_C14'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_895_C10'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_895_C36'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'I0' and 'Z' on cell 'modified_inst_csb_inst_844_csb_in_mux'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'I0' and 'Z' on cell 'modified_inst_csb_inst_844_csb_in_mux'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_1307_C33'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_1307_C14'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_716_C14'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_716_C10'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_716_C23'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_716_C36'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_716_C33'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_716_C7'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_csb_inst_51_C33'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_csb_inst_51_C23'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_csb_inst_51_C7'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_csb_inst_51_C14'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_csb_inst_51_C10'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_csb_inst_51_C36'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A2' and 'Z' on cell 'modified_inst_clut_inst_598_C33'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A2' and 'Z' on cell 'modified_inst_csb_inst_152_C33'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A2' and 'Z' on cell 'modified_inst_csb_inst_152_C23'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A2' and 'Z' on cell 'modified_inst_csb_inst_152_C7'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A2' and 'Z' on cell 'modified_inst_csb_inst_152_C14'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A2' and 'Z' on cell 'modified_inst_csb_inst_152_C10'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A2' and 'Z' on cell 'modified_inst_csb_inst_152_C36'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'I0' and 'Z' on cell 'modified_inst_csb_inst_152_csb_in_mux'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'I0' and 'Z' on cell 'modified_inst_csb_inst_152_csb_in_mux'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'B' and 'ZN' on cell 'modified_inst_clut_inst_1005_U1'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'B' and 'ZN' on cell 'modified_inst_clut_inst_1005_U1'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'B' and 'ZN' on cell 'modified_inst_clut_inst_1005_U1'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'B' and 'ZN' on cell 'modified_inst_clut_inst_1005_U4'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'B' and 'ZN' on cell 'modified_inst_clut_inst_1005_U4'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'B' and 'ZN' on cell 'modified_inst_clut_inst_1005_U4'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'I0' and 'Z' on cell 'modified_inst_csb_inst_213_csb_in_mux'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'I0' and 'Z' on cell 'modified_inst_csb_inst_213_csb_in_mux'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A2' and 'Z' on cell 'modified_inst_clut_inst_402_C33'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A2' and 'Z' on cell 'modified_inst_csb_inst_272_C23'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_910_C33'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_535_C23'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A2' and 'Z' on cell 'modified_inst_clut_inst_598_C23'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A2' and 'Z' on cell 'modified_inst_clut_inst_402_C23'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A2' and 'Z' on cell 'modified_inst_csb_inst_272_C7'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_910_C23'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_535_C36'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A2' and 'Z' on cell 'modified_inst_clut_inst_598_C7'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A2' and 'Z' on cell 'modified_inst_clut_inst_402_C7'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A2' and 'Z' on cell 'modified_inst_csb_inst_272_C14'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_910_C7'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_535_C10'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A2' and 'Z' on cell 'modified_inst_clut_inst_598_C14'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A2' and 'Z' on cell 'modified_inst_clut_inst_402_C14'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A2' and 'Z' on cell 'modified_inst_csb_inst_272_C10'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_910_C14'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_535_C14'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A2' and 'Z' on cell 'modified_inst_clut_inst_598_C10'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A2' and 'Z' on cell 'modified_inst_clut_inst_402_C36'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A2' and 'Z' on cell 'modified_inst_csb_inst_272_C36'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_910_C10'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_535_C7'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A2' and 'Z' on cell 'modified_inst_clut_inst_598_C36'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A2' and 'Z' on cell 'modified_inst_clut_inst_402_C10'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_401_C33'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_910_C36'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_1315_C23'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_1315_C36'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_1315_C33'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_1315_C7'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_535_C33'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_401_C7'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'B1' and 'ZN' on cell 'modified_inst_csb_inst_1328_U11'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'B1' and 'ZN' on cell 'modified_inst_csb_inst_1328_U11'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'B1' and 'ZN' on cell 'modified_inst_csb_inst_1328_U11'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_895_C23'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_1307_C23'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_1315_C10'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'B' and 'ZN' on cell 'modified_inst_clut_inst_1189_U1'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'B' and 'ZN' on cell 'modified_inst_clut_inst_1189_U1'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'B' and 'ZN' on cell 'modified_inst_clut_inst_1189_U1'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_1083_C33'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_401_C14'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'ZN' on cell 'modified_inst_csb_inst_1328_U14'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_895_C7'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_1307_C7'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_1315_C14'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'B' and 'ZN' on cell 'modified_inst_clut_inst_1189_U4'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'B' and 'ZN' on cell 'modified_inst_clut_inst_1189_U4'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'B' and 'ZN' on cell 'modified_inst_clut_inst_1189_U4'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_1083_C23'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_401_C36'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'ZN' on cell 'modified_inst_csb_inst_1328_U9'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_1307_C10'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_1083_C7'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_401_C10'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_1307_C36'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_1083_C14'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_1083_C10'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A1' and 'Z' on cell 'modified_inst_clut_inst_1083_C36'
+         to break a timing loop. (OPT-314)
+ 
+****************************************
+Report : qor
+Design : IIR_filter_ripped
+Version: V-2023.12-SP5
+Date   : Sun Dec 21 13:32:23 2025
+****************************************
+
+
+  Timing Path Group 'clk'
+  -----------------------------------
+  Levels of Logic:             318.00
+  Critical Path Length:       1611.83
+  Critical Path Slack:           0.18
+  Critical Path Clk Period:   2000.00
+  Total Negative Slack:          0.00
+  No. of Violating Paths:        0.00
+  Worst Hold Violation:         -3.34
+  Total Hold Violation:        -15.06
+  No. of Hold Violations:       13.00
+  -----------------------------------
+
+
+  Cell Count
+  -----------------------------------
+  Hierarchical Cell Count:          0
+  Hierarchical Port Count:          0
+  Leaf Cell Count:              17036
+  Buf/Inv Cell Count:            2909
+  Buf Cell Count:                 138
+  Inv Cell Count:                2771
+  CT Buf/Inv Cell Count:            0
+  Combinational Cell Count:     16418
+  Sequential Cell Count:          618
+  Macro Count:                      0
+  -----------------------------------
+
+
+  Area
+  -----------------------------------
+  Combinational Area:     5835.571165
+  Noncombinational Area:   789.774309
+  Buf/Inv Area:            499.089421
+  Total Buffer Area:            75.20
+  Total Inverter Area:         423.89
+  Macro/Black Box Area:      0.000000
+  Net Area:                  0.000000
+  -----------------------------------
+  Cell Area:              6625.345474
+  Design Area:            6625.345474
+
+
+  Design Rules
+  -----------------------------------
+  Total Number of Nets:         18934
+  Nets With Violations:             0
+  Max Trans Violations:             0
+  Max Cap Violations:               0
+  -----------------------------------
+
+
+
+
+  Compile CPU Statistics
+  -----------------------------------------
+  Resource Sharing:                    0.69
+  Logic Optimization:                 18.34
+  Mapping Optimization:               64.31
+  -----------------------------------------
+  Overall Compile Time:               88.36
+  Overall Compile Wall Clock Time:    89.40
+
+  --------------------------------------------------------------------
+
+  Design  WNS: 0.00  TNS: 0.00  Number of Violating Paths: 0
+
+
+  Design (Hold)  WNS: 3.34  TNS: 15.06  Number of Violating Paths: 13
+
+  --------------------------------------------------------------------
+
+
+1

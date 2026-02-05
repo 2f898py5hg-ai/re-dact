@@ -1,0 +1,84 @@
+Information: Updating design information... (UID-85)
+ 
+****************************************
+Report : qor
+Design : b21_ripped
+Version: V-2023.12-SP5
+Date   : Fri Dec  5 05:36:41 2025
+****************************************
+
+
+  Timing Path Group 'clock'
+  -----------------------------------
+  Levels of Logic:             189.00
+  Critical Path Length:       1612.40
+  Critical Path Slack:           0.05
+  Critical Path Clk Period:   2000.00
+  Total Negative Slack:          0.00
+  No. of Violating Paths:        0.00
+  Worst Hold Violation:         -7.58
+  Total Hold Violation:         -7.58
+  No. of Hold Violations:        1.00
+  -----------------------------------
+
+
+  Cell Count
+  -----------------------------------
+  Hierarchical Cell Count:          0
+  Hierarchical Port Count:          0
+  Leaf Cell Count:              41902
+  Buf/Inv Cell Count:            5913
+  Buf Cell Count:                 116
+  Inv Cell Count:                5797
+  CT Buf/Inv Cell Count:            0
+  Combinational Cell Count:     41005
+  Sequential Cell Count:          897
+  Macro Count:                      0
+  -----------------------------------
+
+
+  Area
+  -----------------------------------
+  Combinational Area:    13050.200006
+  Noncombinational Area:  1146.322904
+  Buf/Inv Area:            883.605534
+  Total Buffer Area:            28.51
+  Total Inverter Area:         855.10
+  Macro/Black Box Area:      0.000000
+  Net Area:                  0.000000
+  -----------------------------------
+  Cell Area:             14196.522911
+  Design Area:           14196.522911
+
+
+  Design Rules
+  -----------------------------------
+  Total Number of Nets:         47621
+  Nets With Violations:             0
+  Max Trans Violations:             0
+  Max Cap Violations:               0
+  -----------------------------------
+
+
+
+
+  Compile CPU Statistics
+  -----------------------------------------
+  Resource Sharing:                    3.68
+  Logic Optimization:                 30.25
+  Mapping Optimization:               69.00
+  -----------------------------------------
+  Overall Compile Time:              136.33
+  Overall Compile Wall Clock Time:   138.31
+
+  --------------------------------------------------------------------
+
+  Design  WNS: 0.00  TNS: 0.00  Number of Violating Paths: 0
+
+
+  Design (Hold)  WNS: 7.58  TNS: 7.58  Number of Violating Paths: 1
+
+  --------------------------------------------------------------------
+
+
+1

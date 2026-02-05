@@ -1,0 +1,85 @@
+Information: Updating design information... (UID-85)
+Warning: Design 'picorv32_ripped' contains 1 high-fanout nets. A fanout number of 1000 will be used for delay calculations involving these nets. (TIM-134)
+ 
+****************************************
+Report : qor
+Design : picorv32_ripped
+Version: V-2023.12-SP5
+Date   : Fri Jan 30 11:22:42 2026
+****************************************
+
+
+  Timing Path Group 'clk'
+  -----------------------------------
+  Levels of Logic:             106.00
+  Critical Path Length:       1265.02
+  Critical Path Slack:         346.14
+  Critical Path Clk Period:   2000.00
+  Total Negative Slack:          0.00
+  No. of Violating Paths:        0.00
+  Worst Hold Violation:          0.00
+  Total Hold Violation:          0.00
+  No. of Hold Violations:        0.00
+  -----------------------------------
+
+
+  Cell Count
+  -----------------------------------
+  Hierarchical Cell Count:          0
+  Hierarchical Port Count:          0
+  Leaf Cell Count:              78346
+  Buf/Inv Cell Count:           10936
+  Buf Cell Count:                   7
+  Inv Cell Count:               10929
+  CT Buf/Inv Cell Count:            0
+  Combinational Cell Count:     76129
+  Sequential Cell Count:         2217
+  Macro Count:                      0
+  -----------------------------------
+
+
+  Area
+  -----------------------------------
+  Combinational Area:    24305.418123
+  Noncombinational Area:  2833.219486
+  Buf/Inv Area:           1613.267001
+  Total Buffer Area:             1.72
+  Total Inverter Area:        1611.55
+  Macro/Black Box Area:      0.000000
+  Net Area:                  0.000000
+  -----------------------------------
+  Cell Area:             27138.637609
+  Design Area:           27138.637609
+
+
+  Design Rules
+  -----------------------------------
+  Total Number of Nets:         90516
+  Nets With Violations:             0
+  Max Trans Violations:             0
+  Max Cap Violations:               0
+  -----------------------------------
+
+
+
+
+  Compile CPU Statistics
+  -----------------------------------------
+  Resource Sharing:                    6.23
+  Logic Optimization:                 44.98
+  Mapping Optimization:              144.68
+  -----------------------------------------
+  Overall Compile Time:              273.08
+  Overall Compile Wall Clock Time:   276.22
+
+  --------------------------------------------------------------------
+
+  Design  WNS: 0.00  TNS: 0.00  Number of Violating Paths: 0
+
+
+  Design (Hold)  WNS: 0.00  TNS: 0.00  Number of Violating Paths: 0
+
+  --------------------------------------------------------------------
+
+
+1
