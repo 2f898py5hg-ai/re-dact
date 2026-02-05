@@ -4,7 +4,7 @@ Public repository containing artifacts associated with the paper titled **"RE-DA
 
 ## Overview
 
-**RE-DACT** is a robust fine-grain redaction methodology that aims protect hardware intellectual properties (IPs) against practical reverse engineering (RE) attacks where the adversary has access to a library of known designs, similar to known-plaintext attack (KPA) in cryptography. To address this threat, **RE-DACT** employs novel heuristic-driven randomizations ($\mathbb{RT}$) that introduce significant functional and structural transformations into the redacted designs, inspired by the indistinguishability of a cryptosystem.
+**RE-DACT** is a robust fine-grain redaction methodology that aims protect hardware intellectual properties (IPs) against practical reverse engineering (RE) attacks where the adversary has access to a library of known designs, similar to known-plaintext attack (KPA) in cryptography. To address this threat, **RE-DACT** employs novel heuristic-driven randomizations, $\mathbb{RT}$, that introduce significant functional and structural transformations into the redacted designs, inspired by the indistinguishability of a cryptosystem.
 
 ## Artifact Details
 
@@ -107,7 +107,7 @@ overhead_analysis/
 
 ### Bitstream Configuration
 
-The redacted IP needs to be configured using the functional bitstream in "bitstream.txt" required to configure the redacted logic and restore the original functionality. For proper configuration, the bitstream must be assigned to the $N$-bit input bus named *"cfg_bits"*, where the bit value (0/1) at line *M* in "bitstream.txt" is mapped to the input pin *cfg_bits[M-1]*.
+The redacted IP needs to be configured using the functional bitstream in "bitstream.txt" required to configure the redacted logic and restore the original functionality. For proper configuration, the bitstream must be assigned to the *N*-bit input bus named *"cfg_bits"*, where the bit value (0/1) at line *M* in "bitstream.txt" is mapped to the input pin *cfg_bits[M-1]*.
 
 ### Standard Cell Library
 
